@@ -23,7 +23,7 @@ Sometimes you accidentally move in time and new grease pencil stroke create a ne
 -> *Time lock* option fix the current frame and disable playback. `spacebar` also becomes another pan, like in 2D painting softwares.
 Note: You souldn't use the timelock, if spacebar isn't used for `Play` in your keymapping.
 
-Also in some session you can trigger accidentally the viewport rotation then have to remacth the view.  
+Also in some session you can trigger accidentally the viewport rotation then have to rematch the view.  
 -> *lock view* option switch to pan-only mode (the shortcut to rotate becomes also a pan)  
 
 
